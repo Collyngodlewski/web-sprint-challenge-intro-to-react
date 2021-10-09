@@ -23,10 +23,10 @@ const StyledName = styled.div`
 padding-left: 5%;
 
 
-
 `
 const StyledYear = styled.div`
 padding-right: 5%;
+
 `
 
 
